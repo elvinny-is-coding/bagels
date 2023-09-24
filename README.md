@@ -1,2 +1,2 @@
 # Bagels, the deductive logical game
-A unreadible yet functional game
+This game generates a random number and the user to guess within a limit.
